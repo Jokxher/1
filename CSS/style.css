@@ -6,7 +6,7 @@
   align-items: center;
   border-bottom: 1px solid #D9FFF5;
 }
-body {
+.body {
   margin: 0;
   min-width: 320px;
   min-height: 100%;
