@@ -1,4 +1,12 @@
-.body {
+.elem1 {
+  font-color: red;
+  font-size: 20px;
+}
+.elem2 {
+  font-color: blue;
   font-size: 30px;
-  color: red;
+}
+.elem3 {
+  font-color: green;
+  font-size: 40px;
 }
