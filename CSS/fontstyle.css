@@ -2,7 +2,7 @@
   font-family: "TTLakes";
   src: local("TT Lakes Regular"),
     local("TTLakes-Regular"),
-    url("TTLakes-Regular") format("woff"),
+    url("TTLakes-Regular.woff") format("woff"),
   font-weight: normal;
 }
 body {
