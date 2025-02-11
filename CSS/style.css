@@ -1,7 +1,8 @@
-.main__container {
-  background-color: #F8F8F8;
-}
-.main__container__tag {
+.header__container {
   display: flex;
-  font-size: 28px;
+  justify-content: space-between;
+  height: 88px;
+  padding: 0 16px;
+  align-items: center;
+  border-bottom: 1px solid #D9FFF5;
 }
