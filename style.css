@@ -1,16 +1,15 @@
 .elem1 {
-  font-color: red;
+  color: red;
   font-size: 20px;
 }
 .elem2 {
-  font-color: blue;
+  color: blue;
   font-size: 30px;
 }
 .elem3 {
-  font-color: green;
+  color: green;
   font-size: 40px;
 }
 .title {
   font-size: 50px;
-  align-self: center;
 }
