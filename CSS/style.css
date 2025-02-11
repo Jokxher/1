@@ -1,6 +1,7 @@
-.main {
+.main__container {
   background-color: #F8F8F8;
 }
-.tag {
+.main__container__tag {
+  display: flex;
   font-size: 28px;
 }
